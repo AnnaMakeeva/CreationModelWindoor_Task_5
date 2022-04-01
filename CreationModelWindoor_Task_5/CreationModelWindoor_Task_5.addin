@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\CreationModelWindoor_Task_5.dll"</Assembly>
+		
+		<AddInId>FDBDD9C4-12DF-48D3-B3F1-82A6A4300561</AddInId>
+		<FullClassName>CreationModelWindoor_Task_5.CreationModel</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создание модели c дверью и окнами-Задание 5</Text>
+	</AddIn>
+</RevitAddIns>
